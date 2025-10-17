@@ -10,7 +10,7 @@ This is my journal of the design and building process of **v1per devboard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/547).
 
 
-## 10/17/2025 - The devboard-making begins!  
+## 10/17/2025 1 PM - The devboard-making begins!  
 
 I worked on part of the schematics! i did part of it on my Windows then pushed it to github to work on the rest of mac because I found out I dont need hackatime lol. 
 
@@ -20,5 +20,14 @@ Commits in this session:
 
 This is also what it looks like right now :)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5aa448d733de933fcc5acf38d37f50ef689d054f/image.png)
+  
+
+## 10/17/2025 2 PM - Finished Schematics...Up next is Footprints 😨  
+
+I worked on finishing the schematics! This was a little bit more time consuming because for some reason I could not copy/paste like I was able to on Windows so I had to manually add all the new resistors, capacitors and the the duplicate labels :heavysob:
+
+The commit for today is: [finished schematics...next is footprints :0](https://github.com/v1peridae/v1peridevboard/commit/116c3f8148dc9ca744301984823836fc2559ea38)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3167287e375325e493cdec8049b5b4bb47212017/image.png)
   
 
