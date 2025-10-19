@@ -31,3 +31,13 @@ The commit for today is: [finished schematics...next is footprints :0](https://g
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3167287e375325e493cdec8049b5b4bb47212017/image.png)
   
 
+## 10/19/2025 - Footprints done & Layout is HARD  
+
+So i finished up the footprints and started working on my layout. It's been incredibly hard because of routing lmao. I worked on this during the Athenathon I was hosting so I got to lock in. I am still trying to figure out a good layout which will let me route easily because like there's so much that needs to be routed gahhh. Hopefully I'll get that done tomorrow!
+
+Todays commits : [layout is my biggest opp </3](https://github.com/v1peridae/v1peridevboard/commit/82b3c6488308079fa777f7c2f8cc09028a7aaa2b)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--9465f846e284e88f08f7caa0d35caf1be7d81565/image.png)
+  
+
