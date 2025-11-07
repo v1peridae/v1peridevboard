@@ -1,0 +1,40 @@
+### Footprint positions - created on 2025-11-07T22:12:59+0300 ###
+### Printed by KiCad version 9.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                           PosX       PosY       Rot  Side
+C1        1uF                          C_0402_1005Metric                             166.3700   -67.7500    0.0000  top
+C2        0.1uF                        C_0402_1005Metric                             166.3700   -66.5600    0.0000  top
+C3        0.1uF                        C_0402_1005Metric                             158.0700   -62.4000    0.0000  top
+C4        0.1uF                        C_0402_1005Metric                             155.4200   -67.5500  180.0000  top
+C5        0.1uF                        C_0402_1005Metric                             164.0000   -66.2500   90.0000  top
+C6        0.1uF                        C_0402_1005Metric                             161.9500   -61.4000   90.0000  top
+C7        0.1uF                        C_0402_1005Metric                             154.3000   -72.7500  180.0000  top
+C8        0.1uF                        C_0402_1005Metric                             166.6000   -71.4500    0.0000  top
+C9        0.1uF                        C_0402_1005Metric                             161.3000   -77.8900  -90.0000  top
+C10       1uF                          C_0402_1005Metric                             162.9000   -65.1500   90.0000  top
+C11       0.1uF                        C_0402_1005Metric                             159.9500   -63.0500   90.0000  top
+C12       0.1uF                        C_0402_1005Metric                             162.9600   -77.3700  -90.0000  top
+C13       10uF                         C_0603_1608Metric                             166.0000   -65.2000  180.0000  top
+C14       10uF                         C_0603_1608Metric                             155.6450   -59.8100  180.0000  top
+C15       33pF                         C_0402_1005Metric                             155.9000   -78.8700   90.0000  top
+C16       33pF                         C_0402_1005Metric                             161.2200   -79.8100  -90.0000  top
+C17       0.1uF                        C_0402_1005Metric                             160.9500   -61.3800  -90.0000  top
+J1        USB_C_Receptacle_USB2.0_14P  USB_C_Receptacle_HRO_TYPE-C-31-M-12           160.7000   -53.2900  180.0000  top
+J2        Conn_01x03                   PinHeader_1x03_P2.54mm_Vertical               157.9880  -100.0760   90.0000  top
+J3        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical               151.6000   -52.3200    0.0000  top
+J4        Conn_01x20                   PinHeader_1x20_P2.54mm_Vertical               169.7000  -100.6400  180.0000  top
+R1        5.1K                         R_0402_1005Metric                             164.3000   -63.6500    0.0000  top
+R2        5.1K                         R_0402_1005Metric                             158.3000   -59.2000  180.0000  top
+R3        27                           R_0402_1005Metric                             161.9000   -65.1400   90.0000  top
+R4        27                           R_0402_1005Metric                             160.9500   -64.6000  -90.0000  top
+R5        1K                           R_0402_1005Metric                             160.3400   -76.4000  180.0000  top
+R6        10K                          R_0402_1005Metric                             155.9900   -62.4000  180.0000  top
+R7        1K                           R_0402_1005Metric                             163.6000   -83.4900  180.0000  top
+SW1       SW_Push                      SW_Push_SPST_NO_Alps_SKRK                     165.1500   -78.6000   90.0000  top
+U1        RP2040                       QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm           160.2000   -71.0500    0.0000  top
+U2        NCP1117-3.3_SOT223           SOT-223-3_TabPin2                             160.7500   -92.5500  -90.0000  top
+U3        W25Q16JVZPIQ_TR              Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm   156.8500   -64.3500    0.0000  top
+U4        MCP1700x-330xxTT             SOT-23                                        165.8000   -60.6500   90.0000  top
+Y1        12_MHz                       Crystal_SMD_3225-4Pin_3.2x2.5mm               158.6000   -79.3500  180.0000  top
+## End
