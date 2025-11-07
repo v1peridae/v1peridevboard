@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **v1per devboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/547).
-
-
 ## 10/17/2025 1 PM - The devboard-making begins!  
 
 I worked on part of the schematics! i did part of it on my Windows then pushed it to github to work on the rest of mac because I found out I dont need hackatime lol. 
@@ -40,4 +36,24 @@ Todays commits : [layout is my biggest opp </3](https://github.com/v1peridae/v1p
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--9465f846e284e88f08f7caa0d35caf1be7d81565/image.png)
   
+
+## 11/7/2025 - I AM DONE ROUTING AND ADDING MY LIL DESIGNS !!!  
+
+After almost 3 hours, I am finally done routing!! This was very very hard and painful especially because of how many times i had to rearrange my entire setup just to retry routing. i think one of the most important parts is having some kind of vision in your head before you start. because the first section took a heck ton of time when i wasn't sure how to progress to the next step because stuff was too close or too disorganised etc. 
+
+Progress pics (i stole from my scrapbook):
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e80a626313cac98e76386a2f2afa7edb1ddc1f1/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--4ab8cefa2c2524f0ae8aadfd86e423e444feecd9/image.png)
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--799184ba134a2c35860c2f2bd0fd7c9232421a48/image.png)
+As you can see I started with 41 errors lol.
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e1d725bd62fa4a91e36fc83ee20c74bde1d1e835/image.png)
+Back looks like this
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--be0ee81e37d3cf0f7fb26ea07cb4bd00c31f3c01/image.png) 
+front^  
 
