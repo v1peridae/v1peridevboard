@@ -37,7 +37,7 @@ Todays commits : [layout is my biggest opp </3](https://github.com/v1peridae/v1p
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--9465f846e284e88f08f7caa0d35caf1be7d81565/image.png)
   
 
-## 11/7/2025 - I AM DONE ROUTING AND ADDING MY LIL DESIGNS !!!  
+## 11/7/2025 10 PM - I AM DONE ROUTING AND ADDING MY LIL DESIGNS !!!  
 
 After almost 3 hours, I am finally done routing!! This was very very hard and painful especially because of how many times i had to rearrange my entire setup just to retry routing. i think one of the most important parts is having some kind of vision in your head before you start. because the first section took a heck ton of time when i wasn't sure how to progress to the next step because stuff was too close or too disorganised etc. 
 
@@ -56,4 +56,12 @@ Back looks like this
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--be0ee81e37d3cf0f7fb26ea07cb4bd00c31f3c01/image.png) 
 front^  
+
+## 11/7/2025 11 PM - Add to cart :P  
+
+Finally did the JLC stuff. I could NOT figure out how to do the CPL stuff for a hot minute lmfao but i finally figured ts out. I am really happy with how it turned out and I can't wait to place my order :)
+
+
+![Screenshot 2025-11-07 at 23.21.50](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--85a3af264a2e6926fbe93543d8aa651b2158fcec/Screenshot%202025-11-07%20at%2023.21.50.png)
+![Screenshot 2025-11-07 at 23.13.08](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxNywicHVyIjoiYmxvYl9pZCJ9fQ==--ae823d8015402ef984c81d673aaed09a1e65d088/Screenshot%202025-11-07%20at%2023.13.08.png)![Screenshot 2025-11-07 at 22.31.58](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--34733d7d685c5c3f1de9c874271210028e7d5ded/Screenshot%202025-11-07%20at%2022.31.58.png)  
 
