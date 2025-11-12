@@ -24,3 +24,7 @@ learn how it was made in <a href="/JOURNAL.md"> journal.md </a>:)
 
 <img width="auto" height="200" alt="image" src="https://github.com/user-attachments/assets/f808f1c9-1ca9-4175-bf3c-497b96f90337" />
 
+## schematics
+
+<img width="auto" height="500" alt="image" src="/devboard.svg" />
+
